@@ -1,2 +1,2 @@
 # Iris-flower-classification
-Finding the types of Iris flowers using data analysis using three different algorithms.
+Finding the types of Iris flowers using data analysis using three different Machine Learning Algorithms.
